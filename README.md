@@ -102,13 +102,13 @@ Logistic Regression models the log-odds of the positive class as a linear combin
 
 # Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
 
 # Disclaimer
 
